@@ -1,0 +1,15 @@
+/Users/ozkan/RiderProjects/mg.com/mg.DTO/bin/Debug/net8.0/mg.DTO.deps.json
+/Users/ozkan/RiderProjects/mg.com/mg.DTO/bin/Debug/net8.0/mg.DTO.dll
+/Users/ozkan/RiderProjects/mg.com/mg.DTO/bin/Debug/net8.0/mg.DTO.pdb
+/Users/ozkan/RiderProjects/mg.com/mg.DTO/bin/Debug/net8.0/mg.Entity.dll
+/Users/ozkan/RiderProjects/mg.com/mg.DTO/bin/Debug/net8.0/mg.Entity.pdb
+/Users/ozkan/RiderProjects/mg.com/mg.DTO/obj/Debug/net8.0/mg.DTO.csproj.AssemblyReference.cache
+/Users/ozkan/RiderProjects/mg.com/mg.DTO/obj/Debug/net8.0/mg.DTO.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ozkan/RiderProjects/mg.com/mg.DTO/obj/Debug/net8.0/mg.DTO.AssemblyInfoInputs.cache
+/Users/ozkan/RiderProjects/mg.com/mg.DTO/obj/Debug/net8.0/mg.DTO.AssemblyInfo.cs
+/Users/ozkan/RiderProjects/mg.com/mg.DTO/obj/Debug/net8.0/mg.DTO.csproj.CoreCompileInputs.cache
+/Users/ozkan/RiderProjects/mg.com/mg.DTO/obj/Debug/net8.0/mg.DTO.csproj.Up2Date
+/Users/ozkan/RiderProjects/mg.com/mg.DTO/obj/Debug/net8.0/mg.DTO.dll
+/Users/ozkan/RiderProjects/mg.com/mg.DTO/obj/Debug/net8.0/refint/mg.DTO.dll
+/Users/ozkan/RiderProjects/mg.com/mg.DTO/obj/Debug/net8.0/mg.DTO.pdb
+/Users/ozkan/RiderProjects/mg.com/mg.DTO/obj/Debug/net8.0/ref/mg.DTO.dll

@@ -1,0 +1,14 @@
+/Users/ozkan/RiderProjects/mg.com/mg.Entity/obj/Debug/net8.0/mg.Entity.csproj.AssemblyReference.cache
+/Users/ozkan/RiderProjects/mg.com/mg.Entity/obj/Debug/net8.0/mg.Entity.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ozkan/RiderProjects/mg.com/mg.Entity/obj/Debug/net8.0/mg.Entity.AssemblyInfoInputs.cache
+/Users/ozkan/RiderProjects/mg.com/mg.Entity/obj/Debug/net8.0/mg.Entity.AssemblyInfo.cs
+/Users/ozkan/RiderProjects/mg.com/mg.Entity/obj/Debug/net8.0/mg.Entity.csproj.CoreCompileInputs.cache
+/Users/ozkan/RiderProjects/mg.com/mg.Entity/bin/Debug/net8.0/mg.Entity.deps.json
+/Users/ozkan/RiderProjects/mg.com/mg.Entity/bin/Debug/net8.0/mg.Entity.runtimeconfig.json
+/Users/ozkan/RiderProjects/mg.com/mg.Entity/bin/Debug/net8.0/mg.Entity.dll
+/Users/ozkan/RiderProjects/mg.com/mg.Entity/bin/Debug/net8.0/mg.Entity.pdb
+/Users/ozkan/RiderProjects/mg.com/mg.Entity/obj/Debug/net8.0/mg.Entity.dll
+/Users/ozkan/RiderProjects/mg.com/mg.Entity/obj/Debug/net8.0/refint/mg.Entity.dll
+/Users/ozkan/RiderProjects/mg.com/mg.Entity/obj/Debug/net8.0/mg.Entity.pdb
+/Users/ozkan/RiderProjects/mg.com/mg.Entity/obj/Debug/net8.0/mg.Entity.genruntimeconfig.cache
+/Users/ozkan/RiderProjects/mg.com/mg.Entity/obj/Debug/net8.0/ref/mg.Entity.dll

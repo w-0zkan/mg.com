@@ -1,0 +1,6 @@
+@mg.API_HostAddress = http://localhost:5023
+
+GET {{mg.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

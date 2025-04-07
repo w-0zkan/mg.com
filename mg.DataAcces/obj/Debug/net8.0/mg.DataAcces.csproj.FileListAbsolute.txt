@@ -1,0 +1,15 @@
+/Users/ozkan/RiderProjects/mg.com/mg.DataAcces/bin/Debug/net8.0/mg.DataAcces.deps.json
+/Users/ozkan/RiderProjects/mg.com/mg.DataAcces/bin/Debug/net8.0/mg.DataAcces.dll
+/Users/ozkan/RiderProjects/mg.com/mg.DataAcces/bin/Debug/net8.0/mg.DataAcces.pdb
+/Users/ozkan/RiderProjects/mg.com/mg.DataAcces/bin/Debug/net8.0/mg.Entity.dll
+/Users/ozkan/RiderProjects/mg.com/mg.DataAcces/bin/Debug/net8.0/mg.Entity.pdb
+/Users/ozkan/RiderProjects/mg.com/mg.DataAcces/obj/Debug/net8.0/mg.DataAcces.csproj.AssemblyReference.cache
+/Users/ozkan/RiderProjects/mg.com/mg.DataAcces/obj/Debug/net8.0/mg.DataAcces.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ozkan/RiderProjects/mg.com/mg.DataAcces/obj/Debug/net8.0/mg.DataAcces.AssemblyInfoInputs.cache
+/Users/ozkan/RiderProjects/mg.com/mg.DataAcces/obj/Debug/net8.0/mg.DataAcces.AssemblyInfo.cs
+/Users/ozkan/RiderProjects/mg.com/mg.DataAcces/obj/Debug/net8.0/mg.DataAcces.csproj.CoreCompileInputs.cache
+/Users/ozkan/RiderProjects/mg.com/mg.DataAcces/obj/Debug/net8.0/mg.DataA.E223FDCF.Up2Date
+/Users/ozkan/RiderProjects/mg.com/mg.DataAcces/obj/Debug/net8.0/mg.DataAcces.dll
+/Users/ozkan/RiderProjects/mg.com/mg.DataAcces/obj/Debug/net8.0/refint/mg.DataAcces.dll
+/Users/ozkan/RiderProjects/mg.com/mg.DataAcces/obj/Debug/net8.0/mg.DataAcces.pdb
+/Users/ozkan/RiderProjects/mg.com/mg.DataAcces/obj/Debug/net8.0/ref/mg.DataAcces.dll

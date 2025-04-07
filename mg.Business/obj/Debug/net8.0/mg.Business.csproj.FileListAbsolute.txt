@@ -1,0 +1,17 @@
+/Users/ozkan/RiderProjects/mg.com/mg.Business/bin/Debug/net8.0/mg.Business.deps.json
+/Users/ozkan/RiderProjects/mg.com/mg.Business/bin/Debug/net8.0/mg.Business.dll
+/Users/ozkan/RiderProjects/mg.com/mg.Business/bin/Debug/net8.0/mg.Business.pdb
+/Users/ozkan/RiderProjects/mg.com/mg.Business/bin/Debug/net8.0/mg.DataAcces.dll
+/Users/ozkan/RiderProjects/mg.com/mg.Business/bin/Debug/net8.0/mg.Entity.dll
+/Users/ozkan/RiderProjects/mg.com/mg.Business/bin/Debug/net8.0/mg.DataAcces.pdb
+/Users/ozkan/RiderProjects/mg.com/mg.Business/bin/Debug/net8.0/mg.Entity.pdb
+/Users/ozkan/RiderProjects/mg.com/mg.Business/obj/Debug/net8.0/mg.Business.csproj.AssemblyReference.cache
+/Users/ozkan/RiderProjects/mg.com/mg.Business/obj/Debug/net8.0/mg.Business.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ozkan/RiderProjects/mg.com/mg.Business/obj/Debug/net8.0/mg.Business.AssemblyInfoInputs.cache
+/Users/ozkan/RiderProjects/mg.com/mg.Business/obj/Debug/net8.0/mg.Business.AssemblyInfo.cs
+/Users/ozkan/RiderProjects/mg.com/mg.Business/obj/Debug/net8.0/mg.Business.csproj.CoreCompileInputs.cache
+/Users/ozkan/RiderProjects/mg.com/mg.Business/obj/Debug/net8.0/mg.Busin.9729FFFF.Up2Date
+/Users/ozkan/RiderProjects/mg.com/mg.Business/obj/Debug/net8.0/mg.Business.dll
+/Users/ozkan/RiderProjects/mg.com/mg.Business/obj/Debug/net8.0/refint/mg.Business.dll
+/Users/ozkan/RiderProjects/mg.com/mg.Business/obj/Debug/net8.0/mg.Business.pdb
+/Users/ozkan/RiderProjects/mg.com/mg.Business/obj/Debug/net8.0/ref/mg.Business.dll
