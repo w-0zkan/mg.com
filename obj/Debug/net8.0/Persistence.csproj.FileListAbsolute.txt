@@ -1,0 +1,17 @@
+/Users/ozkan/RiderProjects/happyday/Infrastructure/Persistence/bin/Debug/net8.0/Persistence.deps.json
+/Users/ozkan/RiderProjects/happyday/Infrastructure/Persistence/bin/Debug/net8.0/Persistence.runtimeconfig.json
+/Users/ozkan/RiderProjects/happyday/Infrastructure/Persistence/bin/Debug/net8.0/Persistence.dll
+/Users/ozkan/RiderProjects/happyday/Infrastructure/Persistence/bin/Debug/net8.0/Persistence.pdb
+/Users/ozkan/RiderProjects/happyday/Infrastructure/Persistence/bin/Debug/net8.0/Domain.dll
+/Users/ozkan/RiderProjects/happyday/Infrastructure/Persistence/bin/Debug/net8.0/Domain.pdb
+/Users/ozkan/RiderProjects/happyday/Infrastructure/Persistence/obj/Debug/net8.0/Persistence.csproj.AssemblyReference.cache
+/Users/ozkan/RiderProjects/happyday/Infrastructure/Persistence/obj/Debug/net8.0/Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ozkan/RiderProjects/happyday/Infrastructure/Persistence/obj/Debug/net8.0/Persistence.AssemblyInfoInputs.cache
+/Users/ozkan/RiderProjects/happyday/Infrastructure/Persistence/obj/Debug/net8.0/Persistence.AssemblyInfo.cs
+/Users/ozkan/RiderProjects/happyday/Infrastructure/Persistence/obj/Debug/net8.0/Persistence.csproj.CoreCompileInputs.cache
+/Users/ozkan/RiderProjects/happyday/Infrastructure/Persistence/obj/Debug/net8.0/Persiste.61C28332.Up2Date
+/Users/ozkan/RiderProjects/happyday/Infrastructure/Persistence/obj/Debug/net8.0/Persistence.dll
+/Users/ozkan/RiderProjects/happyday/Infrastructure/Persistence/obj/Debug/net8.0/refint/Persistence.dll
+/Users/ozkan/RiderProjects/happyday/Infrastructure/Persistence/obj/Debug/net8.0/Persistence.pdb
+/Users/ozkan/RiderProjects/happyday/Infrastructure/Persistence/obj/Debug/net8.0/Persistence.genruntimeconfig.cache
+/Users/ozkan/RiderProjects/happyday/Infrastructure/Persistence/obj/Debug/net8.0/ref/Persistence.dll
