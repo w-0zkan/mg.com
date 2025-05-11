@@ -1,0 +1,6 @@
+@MutluGunumApi_HostAddress = http://localhost:5199
+
+GET {{MutluGunumApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
